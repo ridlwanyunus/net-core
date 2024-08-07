@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|solutionrelative:entityframworkapi\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|solutionrelative:entityframworkapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|solutionrelative:entityframworkapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\models\\studentparamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|solutionrelative:entityframworkapi\\models\\studentparamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|solutionrelative:entityframworkapi\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\mappers\\studentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|solutionrelative:entityframworkapi\\mappers\\studentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +35,8 @@
       "RelativeMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|solutionrelative:entityframworkapi\\models\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\models\\studentparamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|solutionrelative:entityframworkapi\\models\\studentparamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\entityframworkapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|solutionrelative:entityframworkapi\\entityframworkapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\mappers\\studentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|solutionrelative:entityframworkapi\\mappers\\studentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\models\\addstudentenrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,14 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|solutionrelative:entityframworkapi\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|solutionrelative:entityframworkapi\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|solutionrelative:entityframworkapi\\models\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{890795AA-B7C4-4318-A9CA-CC8F8BE5DFE4}|EntityFramworkApi\\EntityFramworkApi.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day02\\entityframworkapi\\entityframworkapi\\models\\addstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,8 +58,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\appsettings.json",
+              "RelativeDocumentMoniker": "EntityFramworkApi\\appsettings.json",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\appsettings.json",
+              "RelativeToolTip": "EntityFramworkApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-07T02:59:18.148Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 5,
@@ -71,46 +88,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Program.cs",
               "RelativeDocumentMoniker": "EntityFramworkApi\\Program.cs",
               "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Program.cs",
               "RelativeToolTip": "EntityFramworkApi\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBUAAABUAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBUAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-06T08:20:51.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EntityFramworkApi",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\EntityFramworkApi.csproj",
-              "RelativeDocumentMoniker": "EntityFramworkApi\\EntityFramworkApi.csproj",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\EntityFramworkApi.csproj",
-              "RelativeToolTip": "EntityFramworkApi\\EntityFramworkApi.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-06T08:20:39.39Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddStudentEnrollment.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\AddStudentEnrollment.cs",
-              "RelativeDocumentMoniker": "EntityFramworkApi\\Models\\AddStudentEnrollment.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\AddStudentEnrollment.cs",
-              "RelativeToolTip": "EntityFramworkApi\\Models\\AddStudentEnrollment.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T07:03:57.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "EntityFramworkApi\\Models\\Entities\\Student.cs",
@@ -118,12 +109,11 @@
               "RelativeToolTip": "EntityFramworkApi\\Models\\Entities\\Student.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwAgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:34:07.012Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T06:34:07.012Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "EntityFramworkApi\\Controllers\\StudentController.cs",
@@ -131,8 +121,7 @@
               "RelativeToolTip": "EntityFramworkApi\\Controllers\\StudentController.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T03:37:31.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T03:37:31.003Z"
             },
             {
               "$type": "Document",
@@ -149,7 +138,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "EntityFramworkApi\\Models\\DbInitializer.cs",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\DbInitializer.cs",
+              "RelativeToolTip": "EntityFramworkApi\\Models\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T06:21:44.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "EntityFramworkApi\\Models\\SchoolContext.cs",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "EntityFramworkApi\\Models\\SchoolContext.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:31:34.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddStudentEnrollment.cs",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\AddStudentEnrollment.cs",
+              "RelativeDocumentMoniker": "EntityFramworkApi\\Models\\AddStudentEnrollment.cs",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\AddStudentEnrollment.cs",
+              "RelativeToolTip": "EntityFramworkApi\\Models\\AddStudentEnrollment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T07:03:57.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EntityFramworkApi.csproj",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\EntityFramworkApi.csproj",
+              "RelativeDocumentMoniker": "EntityFramworkApi\\EntityFramworkApi.csproj",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\EntityFramworkApi.csproj",
+              "RelativeToolTip": "EntityFramworkApi\\EntityFramworkApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-06T08:20:39.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "StudentDTO.cs",
               "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\StudentDTO.cs",
               "RelativeDocumentMoniker": "EntityFramworkApi\\Models\\StudentDTO.cs",
@@ -157,25 +196,11 @@
               "RelativeToolTip": "EntityFramworkApi\\Models\\StudentDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T08:23:22.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T08:23:22.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SchoolContext.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\SchoolContext.cs",
-              "RelativeDocumentMoniker": "EntityFramworkApi\\Models\\SchoolContext.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\SchoolContext.cs",
-              "RelativeToolTip": "EntityFramworkApi\\Models\\SchoolContext.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAuwBUAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T07:31:34.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "AddStudentDto.cs",
               "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\AddStudentDto.cs",
               "RelativeDocumentMoniker": "EntityFramworkApi\\Models\\AddStudentDto.cs",
@@ -183,21 +208,7 @@
               "RelativeToolTip": "EntityFramworkApi\\Models\\AddStudentDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:34:01.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "EntityFramworkApi\\Models\\DbInitializer.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day02\\EntityFramworkApi\\EntityFramworkApi\\Models\\DbInitializer.cs",
-              "RelativeToolTip": "EntityFramworkApi\\Models\\DbInitializer.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T06:21:44.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-06T06:34:01.419Z"
             }
           ]
         }
