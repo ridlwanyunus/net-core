@@ -3,96 +3,64 @@
   "WorkspaceRootPath": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B7BD6A88-AE27-48A4-8CD7-38696BAE0C3C}|RestClient\\RestClient.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\restclient\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7BD6A88-AE27-48A4-8CD7-38696BAE0C3C}|RestClient\\RestClient.csproj|solutionrelative:restclient\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\application\\dto\\placeholderimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|solutionrelative:application\\dto\\placeholderimport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\cleanarchitecture\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|solutionrelative:application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\application\\features\\studentfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|solutionrelative:application\\features\\studentfeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\application\\features\\coursefeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|solutionrelative:application\\features\\coursefeature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7BD6A88-AE27-48A4-8CD7-38696BAE0C3C}|RestClient\\RestClient.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\restclient\\restclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B7BD6A88-AE27-48A4-8CD7-38696BAE0C3C}|RestClient\\RestClient.csproj|solutionrelative:restclient\\restclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{7AB4F1D4-7977-424A-9C6E-97C83541F982}|Infra.Common\\Infra.Common.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\infra.common\\hostregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB4F1D4-7977-424A-9C6E-97C83541F982}|Infra.Common\\Infra.Common.csproj|solutionrelative:infra.common\\hostregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7BD6A88-AE27-48A4-8CD7-38696BAE0C3C}|RestClient\\RestClient.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\restclient\\repositories\\placeholderuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7BD6A88-AE27-48A4-8CD7-38696BAE0C3C}|RestClient\\RestClient.csproj|solutionrelative:restclient\\repositories\\placeholderuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7BD6A88-AE27-48A4-8CD7-38696BAE0C3C}|RestClient\\RestClient.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\restclient\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7BD6A88-AE27-48A4-8CD7-38696BAE0C3C}|RestClient\\RestClient.csproj|solutionrelative:restclient\\restclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\application\\repositories\\iplaceholderuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|solutionrelative:application\\repositories\\iplaceholderuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7DCB406-0680-456F-8C04-7031F92924E8}|Persistance\\Persistence.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\persistance\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E7DCB406-0680-456F-8C04-7031F92924E8}|Persistance\\Persistence.csproj|solutionrelative:persistance\\persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC14E99E-3069-48F5-AECB-0BAD7B9CE2ED}|Domain\\Domain.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\domain\\valuesobject\\placeholderuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC14E99E-3069-48F5-AECB-0BAD7B9CE2ED}|Domain\\Domain.csproj|solutionrelative:domain\\valuesobject\\placeholderuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7DCB406-0680-456F-8C04-7031F92924E8}|Persistance\\Persistence.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\persistance\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7DCB406-0680-456F-8C04-7031F92924E8}|Persistance\\Persistence.csproj|solutionrelative:persistance\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC14E99E-3069-48F5-AECB-0BAD7B9CE2ED}|Domain\\Domain.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\domain\\dto\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC14E99E-3069-48F5-AECB-0BAD7B9CE2ED}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CC14E99E-3069-48F5-AECB-0BAD7B9CE2ED}|Domain\\Domain.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CC14E99E-3069-48F5-AECB-0BAD7B9CE2ED}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7DCB406-0680-456F-8C04-7031F92924E8}|Persistance\\Persistence.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\persistance\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7DCB406-0680-456F-8C04-7031F92924E8}|Persistance\\Persistence.csproj|solutionrelative:persistance\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\cleanarchitecture\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\cleanarchitecture\\cleanarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\cleanarchitecture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7DCB406-0680-456F-8C04-7031F92924E8}|Persistance\\Persistence.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E7DCB406-0680-456F-8C04-7031F92924E8}|Persistance\\Persistence.csproj|solutionrelative:persistance\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7DCB406-0680-456F-8C04-7031F92924E8}|Persistance\\Persistence.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\persistance\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7DCB406-0680-456F-8C04-7031F92924E8}|Persistance\\Persistence.csproj|solutionrelative:persistance\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7AB4F1D4-7977-424A-9C6E-97C83541F982}|Infra.Common\\Infra.Common.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\infra.common\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB4F1D4-7977-424A-9C6E-97C83541F982}|Infra.Common\\Infra.Common.csproj|solutionrelative:infra.common\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB4F1D4-7977-424A-9C6E-97C83541F982}|Infra.Common\\Infra.Common.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\infra.common\\infra.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7AB4F1D4-7977-424A-9C6E-97C83541F982}|Infra.Common\\Infra.Common.csproj|solutionrelative:infra.common\\infra.common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CC14E99E-3069-48F5-AECB-0BAD7B9CE2ED}|Domain\\Domain.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CC14E99E-3069-48F5-AECB-0BAD7B9CE2ED}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\Migrations\\20240807072704_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Persistance\\Migrations\\20240807072704_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CC14E99E-3069-48F5-AECB-0BAD7B9CE2ED}|Domain\\Domain.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC14E99E-3069-48F5-AECB-0BAD7B9CE2ED}|Domain\\Domain.csproj|solutionrelative:domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\cleanarchitecture\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04170D0A-F520-4040-AFD8-BDAEB944EE03}|CleanArchitecture\\CleanArchitecture.csproj|solutionrelative:cleanarchitecture\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7DCB406-0680-456F-8C04-7031F92924E8}|Persistance\\Persistence.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\persistance\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7DCB406-0680-456F-8C04-7031F92924E8}|Persistance\\Persistence.csproj|solutionrelative:persistance\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|solutionrelative:application\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\application\\repositories\\irepositoriy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|solutionrelative:application\\repositories\\irepositoriy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|d:\\ridlwan\\training\\net\\20240805\\pusdiklat ku net core\\day03\\cleanarchitecture\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B38EC325-2CC1-4ECB-955C-50FFF5311CCB}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,306 +70,188 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\RestClient\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "RestClient\\ServiceRegistration.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\RestClient\\ServiceRegistration.cs",
-              "RelativeToolTip": "RestClient\\ServiceRegistration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T09:06:18.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "RestClient",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\RestClient\\RestClient.csproj",
-              "RelativeDocumentMoniker": "RestClient\\RestClient.csproj",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\RestClient\\RestClient.csproj",
-              "RelativeToolTip": "RestClient\\RestClient.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-07T08:56:05.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "RestClient.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\RestClient\\RestClient.cs",
-              "RelativeDocumentMoniker": "RestClient\\RestClient.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\RestClient\\RestClient.cs",
-              "RelativeToolTip": "RestClient\\RestClient.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T08:53:27.608Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PlaceholderUserRepository.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\RestClient\\Repositories\\PlaceholderUserRepository.cs",
-              "RelativeDocumentMoniker": "RestClient\\Repositories\\PlaceholderUserRepository.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\RestClient\\Repositories\\PlaceholderUserRepository.cs",
-              "RelativeToolTip": "RestClient\\Repositories\\PlaceholderUserRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T08:14:29.852Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Application\\ServiceRegistration.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\ServiceRegistration.cs",
-              "RelativeToolTip": "Application\\ServiceRegistration.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T06:43:09.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PlaceholderImport.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\DTO\\PlaceholderImport.cs",
-              "RelativeDocumentMoniker": "Application\\DTO\\PlaceholderImport.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\DTO\\PlaceholderImport.cs",
-              "RelativeToolTip": "Application\\DTO\\PlaceholderImport.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T09:26:29.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\CleanArchitecture\\Program.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture\\Program.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\CleanArchitecture\\Program.cs",
-              "RelativeToolTip": "CleanArchitecture\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T07:12:46.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\CleanArchitecture\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\CleanArchitecture\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "CleanArchitecture\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBQAAABbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T09:21:51.874Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentFeature.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\Features\\StudentFeature.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\StudentFeature.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\Features\\StudentFeature.cs",
-              "RelativeToolTip": "Application\\Features\\StudentFeature.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAkwCgAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T09:12:37.522Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IPlaceholderUserRepository.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\Repositories\\IPlaceholderUserRepository.cs",
-              "RelativeDocumentMoniker": "Application\\Repositories\\IPlaceholderUserRepository.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\Repositories\\IPlaceholderUserRepository.cs",
-              "RelativeToolTip": "Application\\Repositories\\IPlaceholderUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T08:09:06.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CourseFeature.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\Features\\CourseFeature.cs",
-              "RelativeDocumentMoniker": "Application\\Features\\CourseFeature.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\Features\\CourseFeature.cs",
-              "RelativeToolTip": "Application\\Features\\CourseFeature.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBMAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T06:56:41.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PlaceholderUser.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Domain\\ValuesObject\\PlaceholderUser.cs",
-              "RelativeDocumentMoniker": "Domain\\ValuesObject\\PlaceholderUser.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Domain\\ValuesObject\\PlaceholderUser.cs",
-              "RelativeToolTip": "Domain\\ValuesObject\\PlaceholderUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T08:10:34.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20240807072704_Init.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\Migrations\\20240807072704_Init.cs",
-              "RelativeDocumentMoniker": "Persistance\\Migrations\\20240807072704_Init.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\Migrations\\20240807072704_Init.cs",
-              "RelativeToolTip": "Persistance\\Migrations\\20240807072704_Init.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T07:27:04.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Persistence",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\Persistence.csproj",
-              "RelativeDocumentMoniker": "Persistance\\Persistence.csproj",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\Persistence.csproj",
-              "RelativeToolTip": "Persistance\\Persistence.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-07T06:35:25.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Domain\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Student.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Domain\\Entities\\Student.cs",
-              "RelativeToolTip": "Domain\\Entities\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T07:34:16.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "SchoolContext.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\SchoolContext.cs",
-              "RelativeDocumentMoniker": "Persistance\\SchoolContext.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\SchoolContext.cs",
-              "RelativeToolTip": "Persistance\\SchoolContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAACEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T02:15:10.697Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "Persistance\\DbInitializer.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\DbInitializer.cs",
-              "RelativeToolTip": "Persistance\\DbInitializer.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T07:36:07.81Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ServiceRegistration.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\ServiceRegistration.cs",
-              "RelativeDocumentMoniker": "Persistance\\ServiceRegistration.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\ServiceRegistration.cs",
-              "RelativeToolTip": "Persistance\\ServiceRegistration.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAhwB0AAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T06:41:38.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "Persistance\\Repositories\\Repository.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\Repositories\\Repository.cs",
-              "RelativeToolTip": "Persistance\\Repositories\\Repository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T06:36:40.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "CourseCreateDto.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Domain\\DTO\\CourseCreateDto.cs",
-              "RelativeDocumentMoniker": "Domain\\DTO\\CourseCreateDto.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Domain\\DTO\\CourseCreateDto.cs",
-              "RelativeToolTip": "Domain\\DTO\\CourseCreateDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T06:52:46.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Domain\\Entities\\Course.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Course.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Domain\\Entities\\Course.cs",
-              "RelativeToolTip": "Domain\\Entities\\Course.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T06:47:30.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CourseController.cs",
-              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\CleanArchitecture\\Controllers\\CourseController.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture\\Controllers\\CourseController.cs",
-              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\CleanArchitecture\\Controllers\\CourseController.cs",
-              "RelativeToolTip": "CleanArchitecture\\Controllers\\CourseController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAuwB0AAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-07T07:50:33.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\CleanArchitecture\\appsettings.json",
               "RelativeDocumentMoniker": "CleanArchitecture\\appsettings.json",
               "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\CleanArchitecture\\appsettings.json",
               "RelativeToolTip": "CleanArchitecture\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAB9AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAmwCcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-07T07:22:07.036Z",
+              "WhenOpened": "2024-08-08T09:50:22.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Infra.Common\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Infra.Common\\ServiceRegistration.cs",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Infra.Common\\ServiceRegistration.cs",
+              "RelativeToolTip": "Infra.Common\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAlwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:36:27.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\CleanArchitecture\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\Program.cs",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\CleanArchitecture\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:35:40.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CleanArchitecture.csproj",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture\\CleanArchitecture.csproj",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\CleanArchitecture\\CleanArchitecture.csproj",
+              "RelativeToolTip": "CleanArchitecture\\CleanArchitecture.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T09:35:14.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Infra.Common.csproj",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Infra.Common\\Infra.Common.csproj",
+              "RelativeDocumentMoniker": "Infra.Common\\Infra.Common.csproj",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Infra.Common\\Infra.Common.csproj",
+              "RelativeToolTip": "Infra.Common\\Infra.Common.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T09:20:15.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentFeature.cs",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\Features\\StudentFeature.cs",
+              "RelativeDocumentMoniker": "Application\\Features\\StudentFeature.cs",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\Features\\StudentFeature.cs",
+              "RelativeToolTip": "Application\\Features\\StudentFeature.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:27:15.167Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Persistance\\ServiceRegistration.cs",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\ServiceRegistration.cs",
+              "RelativeToolTip": "Persistance\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:36:39.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HostRegistration.cs",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Infra.Common\\HostRegistration.cs",
+              "RelativeDocumentMoniker": "Infra.Common\\HostRegistration.cs",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Infra.Common\\HostRegistration.cs",
+              "RelativeToolTip": "Infra.Common\\HostRegistration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:13:46.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Domain.csproj",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "Domain\\Domain.csproj",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Domain\\Domain.csproj",
+              "RelativeToolTip": "Domain\\Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T09:01:48.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Student.cs",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "Domain\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T09:01:29.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\CleanArchitecture\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\CleanArchitecture\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CleanArchitecture\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:30:57.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Persistance\\Repositories\\Repository.cs",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Persistance\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Persistance\\Repositories\\Repository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:30:19.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "Application\\ServiceRegistration.cs",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\ServiceRegistration.cs",
+              "RelativeToolTip": "Application\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:29:40.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepositoriy.cs",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\Repositories\\IRepositoriy.cs",
+              "RelativeDocumentMoniker": "Application\\Repositories\\IRepositoriy.cs",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\Repositories\\IRepositoriy.cs",
+              "RelativeToolTip": "Application\\Repositories\\IRepositoriy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T08:28:08.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Application.csproj",
+              "DocumentMoniker": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "D:\\Ridlwan\\Training\\Net\\20240805\\Pusdiklat KU NET Core\\day03\\CleanArchitecture\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-08T03:48:08.448Z"
             }
           ]
         }

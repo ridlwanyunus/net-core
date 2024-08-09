@@ -1,5 +1,7 @@
 ﻿using Application.Features;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.DependencyInjection;
+using Sieve.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -15,6 +17,11 @@ namespace Application
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddScoped<CourseFeature>();
             services.AddScoped<StudentFeature>();
+            services.AddScoped<TokenFeature>();
+            services.AddScoped<PasswordFeature>();
+            services.AddScoped<IPasswordHasher<Object>, PasswordHasher<Object>>();
+            services.AddScoped<AuthFeature>();
+            services.AddScoped<ISieveProcessor, SieveProcessor>();
             return services;
         }
     }

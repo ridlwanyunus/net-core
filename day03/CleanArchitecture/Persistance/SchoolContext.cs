@@ -20,6 +20,8 @@ namespace Persistence
         public virtual DbSet<Student> Students { get; set; }
         public virtual DbSet<Enrollment> Enrollments { get; set; }
         public virtual DbSet<Course> Courses { get; set; }
+        public virtual DbSet<Users> Users { get; set; }
+        public virtual DbSet<UserRole> UserRoles { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
@@ -60,6 +62,24 @@ namespace Persistence
                     e.Property(x => x.Title).IsRequired().HasMaxLength(255);
 
                     e.HasMany(x => x.Enrollments).WithOne(x => x.Course).HasForeignKey(x => x.CourseID);
+                }
+            );
+
+            builder.Entity<Users>
+            (
+                e =>
+                {
+                    e.HasKey(x => x.ID);
+                    e.Property(x => x.CreatedAt).HasDefaultValueSql("getdate()");
+                }
+            );
+
+            builder.Entity<UserRole>
+            (
+                e =>
+                {
+                    e.HasKey(x => x.ID);
+                    e.Property(x => x.CreatedAt).HasDefaultValueSql("getdate()");
                 }
             );
         }

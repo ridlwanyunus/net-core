@@ -3,6 +3,7 @@ using Application.Features;
 using Domain.ValuesObject;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Sieve.Models;
 
 namespace CleanArchitecture.Controllers
 {
@@ -11,9 +12,9 @@ namespace CleanArchitecture.Controllers
     public class StudentController(StudentFeature _studentFeature) : ControllerBase
     {
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public async Task<IActionResult> GetAll([FromQuery] SieveModel sieveModel)
         {
-            var result = await _studentFeature.GetAll();
+            var result = await _studentFeature.GetAll(sieveModel);
             return Ok(result);
         }
 

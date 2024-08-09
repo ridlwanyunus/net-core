@@ -10,3 +10,4 @@ D:\Ridlwan\Training\Net\20240805\Pusdiklat KU NET Core\day03\CleanArchitecture\D
 D:\Ridlwan\Training\Net\20240805\Pusdiklat KU NET Core\day03\CleanArchitecture\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Ridlwan\Training\Net\20240805\Pusdiklat KU NET Core\day03\CleanArchitecture\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Ridlwan\Training\Net\20240805\Pusdiklat KU NET Core\day03\CleanArchitecture\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Ridlwan\Training\Net\20240805\Pusdiklat KU NET Core\day03\CleanArchitecture\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache

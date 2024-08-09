@@ -11,6 +11,7 @@ namespace Application.Repositories
     public interface IRepositoriy<T> where T : BaseEntity
     {
         public Task<List<T>> GetAll();
+        public IQueryable<T> GetAllSieveModel();
         public Task<T> GetById(Object Id);
         public Task<List<T>> Get(Expression<Func<T, bool>> predicate);
         public Task Add(T entity);
